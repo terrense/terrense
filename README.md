@@ -3,7 +3,7 @@
 - 🌱 I am a big fan of YOLO!!!! really cool, and love Transformer
 - 🌱 I’m currently learning PL-SLAM
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : m18811022189@163.com   Shenxin@yandex.ru  
+- 📫 How to reach me : m18811022189@163.com   Shenxin@yandex.ru slamshenxin@gmail.com  
 
 <!---
 terrense/terrense is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

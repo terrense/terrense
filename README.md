@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : m18811022189@163.com   Shenxin@yandex.ru slamshenxin@gmail.com
 - 👋 publication： https://orcid.org/0000-0002-8191-9654
+- 👀 Chinese blog:https://blog.csdn.net/weixin_42001184?spm=1000.2115.3001.5343
 
 <!---
 terrense/terrense is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

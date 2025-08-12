@@ -1,4 +1,4 @@
-2- 👋 Hi, I’m Terrence Shen
+- 👋 Hi, I’m Terrence Shen
 - 👀 I’m interested in visual-SLAM, integrated navigation system, CNN, Transformer and other deep learning techlonogy
 - 🌱 I am a big fan of YOLO!!!! really cool, and love Transformer
 - 🌱 I’m currently learning PL-SLAM
@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-# 👋 Hi, I'm **FULL_NAME**  
-**JOB_TITLE** · **LOCATION**
+# 👋 Hi, I'm **Terrence Shen**  
+**PhD** · **Computer Vision Engineer**
 
 [![Follow](https://img.shields.io/github/followers/GITHUB_USERNAME?label=Follow&style=for-the-badge)](https://github.com/GITHUB_USERNAME?tab=followers)
 [![Stars](https://img.shields.io/github/stars/GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/GITHUB_USERNAME?tab=repositories&sort=stargazers)
@@ -72,9 +72,6 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
@@ -84,14 +81,11 @@ You can click the Preview link to take a look at your changes.
 ![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?logo=opencv&logoColor=black)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-5E35B1?logo=grpc&logoColor=white)
 
 ### Platforms & DevOps
 ![Linux](https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white)
 ![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?logo=nvidia&logoColor=white)
@@ -100,7 +94,6 @@ You can click the Preview link to take a look at your changes.
 ### Databases & Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white)
 
 ---
 
@@ -195,6 +188,6 @@ You can click the Preview link to take a look at your changes.
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=flat-square)
   
-*Made with ❤️ by FULL_NAME — 最小可依赖、最大可复用。*
+*Made with ❤️ by Xin Shen from China。*
 
 </div>

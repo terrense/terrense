@@ -164,10 +164,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-EMAIL-informational?style=flat&logo=gmail)](mailto:EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN_USERNAME-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/LINKEDIN_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-@TWITTER_USERNAME-1DA1F2?style=flat&logo=twitter)](https://twitter.com/TWITTER_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-GITHUB_USERNAME-181717?style=flat&logo=github)](https://github.com/GITHUB_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EMAIL-informational?style=flat&logo=gmail)](mailto:slamshenxin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN_USERNAME-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/LINKEDIN_USERNAME](https://www.linkedin.com/in/xin-shen-4b4b66110/))
+[![Instagram](https://img.shields.io/badge/Instagram-@INSTAGRAM_USERNAME-E4405F?style=flat&logo=instagram)](https://instagram.com/shenxin_1997)
+[![GitHub](https://img.shields.io/badge/GitHub-GITHUB_USERNAME-181717?style=flat&logo=github)](https://github.com/terrense)
 [![Website](https://img.shields.io/badge/Website-PERSONAL_WEBSITE-success?style=flat&logo=vercel)](PERSONAL_WEBSITE)
 
 <div>

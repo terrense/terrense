@@ -172,7 +172,7 @@ You can click the Preview link to take a look at your changes.
 
 <div>
   <!-- 可选：微信二维码 -->
-  <!-- <img src="Weixin_Image_QRcode.jpg" alt="WeChat QR" width="120" /> -->
+  <img src="Weixin_Image_QRcode.jpg" alt="WeChat QR" width="120" />
 </div>
 
 ---

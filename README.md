@@ -40,7 +40,9 @@ You can click the Preview link to take a look at your changes.
 [![Stars](https://img.shields.io/github/stars/GITHUB_USERNAME?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)](https://github.com/GITHUB_USERNAME?tab=repositories&sort=stargazers)
 [![Resume](https://img.shields.io/badge/Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](RESUME_LINK)
 [![Website](https://img.shields.io/badge/Website-ONLINE-success?style=for-the-badge&logo=vercel&logoColor=white)](PERSONAL_WEBSITE)
-[![Email](https://img.shields.io/badge/Email-EMAIL-critical?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
+[![International Email](https://img.shields.io/badge/Email-International-critical?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slamshenxin@gmail.com)
+[![Russian Email](https://img.shields.io/badge/Email-Russian-critical?style=for-the-badge&logo=yandex&logoColor=white)](mailto:Shenxin@yandex.ru)
+[![Chinese Email](https://img.shields.io/badge/Email-Chinese-critical?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:m18811022189@163.com)
 [![Blog](https://img.shields.io/badge/Blog-Read-ff8a00?style=for-the-badge&logo=rss&logoColor=white)](BLOG_URL)
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤-ea4aaa?style=for-the-badge)](SPONSOR_URL)
 

@@ -164,20 +164,34 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 📫 Contact
-[![Email](https://img.shields.io/badge/Email-EMAIL-informational?style=flat&logo=gmail)](mailto:slamshenxin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LINKEDIN_USERNAME-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/LINKEDIN_USERNAME](https://www.linkedin.com/in/xin-shen-4b4b66110/))
-[![Instagram](https://img.shields.io/badge/Instagram-@INSTAGRAM_USERNAME-E4405F?style=flat&logo=instagram)](https://instagram.com/shenxin_1997)
-[![GitHub](https://img.shields.io/badge/GitHub-GITHUB_USERNAME-181717?style=flat&logo=github)](https://github.com/terrense)
-[![Website](https://img.shields.io/badge/Website-PERSONAL_WEBSITE-success?style=flat&logo=vercel)](PERSONAL_WEBSITE)
-
-<div>
-  <!-- 可选：微信二维码 -->
-  <img src="Weixin_Image_QRcode.jpg" alt="WeChat QR" width="120" />
-</div>
-
----
 
 <div align="center">
+
+  <!-- 按钮一排：三语邮箱 + LinkedIn + Instagram + GitHub + 个人网站 -->
+  <a href="mailto:slamshenxin@gmail.com"><img alt="Email International" src="https://img.shields.io/badge/Email-International-informational?logo=gmail"></a>
+  &nbsp;
+  <a href="mailto:Shenxin@yandex.ru"><img alt="Email Russian" src="https://img.shields.io/badge/Email-Russian-informational?logo=yandex"></a>
+  &nbsp;
+  <a href="mailto:m18811022189@163.com"><img alt="Email Chinese" src="https://img.shields.io/badge/Email-Chinese-informational?logo=maildotru"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/xin-shen-4b4b66110/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LINKEDIN_USERNAME-blue?logo=linkedin"></a>
+  &nbsp;
+  <a href="https://instagram.com/INSTAGRAM_USERNAME"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@INSTAGRAM_USERNAME-E4405F?logo=instagram"></a>
+  &nbsp;
+  <a href="https://github.com/GITHUB_USERNAME"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-GITHUB_USERNAME-181717?logo=github"></a>
+  &nbsp;
+  <a href="https://PERSONAL_WEBSITE"><img alt="Website" src="https://img.shields.io/badge/Website-PERSONAL_WEBSITE-success?logo=vercel"></a>
+
+  <br/><br/>
+
+  <!-- 微信二维码（放大到 220~260 之间都可以） -->
+  <img src="./Weixin_Image_QRcode.jpg" alt="WeChat QR" width="240" />
+
+  <br/>
+  <sub>扫描二维码添加（备注：GitHub / International / RU / CN）</sub>
+</div>
+
+
   
 ![Visitor Count](https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=flat-square)
   

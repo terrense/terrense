@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Terrence Shen
-- 👀 I’m interested in visual-SLAM, integrated navigation system, CNN, Transformer and other deep learning techlonogy
-- 🌱 I am a big fan of YOLO!!!! really cool, and love Transformer
-- 🌱 I’m currently learning PL-SLAM
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : m18811022189@163.com   Shenxin@yandex.ru slamshenxin@gmail.com
-- 👋 publication： https://orcid.org/0000-0002-8191-9654
-- 👀 Chinese blog:https://blog.csdn.net/weixin_42001184?spm=1000.2115.3001.5343
-
 <!---
 terrense/terrense is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -43,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 [![International Email](https://img.shields.io/badge/Email-International-critical?style=for-the-badge&logo=gmail&logoColor=white)](mailto:slamshenxin@gmail.com)
 [![Russian Email](https://img.shields.io/badge/Email-Russian-critical?style=for-the-badge&logo=yandex&logoColor=white)](mailto:Shenxin@yandex.ru)
 [![Chinese Email](https://img.shields.io/badge/Email-Chinese-critical?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:m18811022189@163.com)
-[![Blog](https://img.shields.io/badge/Blog-Read-ff8a00?style=for-the-badge&logo=rss&logoColor=white)](BLOG_URL)
+[![Chinese Blog](https://img.shields.io/badge/Blog-Read-ff8a00?style=for-the-badge&logo=rss&logoColor=white)](https://blog.csdn.net/weixin_42001184?spm=1000.2115.3001.5343)
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤-ea4aaa?style=for-the-badge)](SPONSOR_URL)
 
 <a href="#-about">About</a> •

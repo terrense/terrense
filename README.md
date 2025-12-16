@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 ## 🧭 About
 - 🔭 目前在做：**计算机视觉 / 工业检测 / SLAM / 机器人感知**  
 - 🌱 正在学习：**现代 C++、CUDA、PyTorch、分布式训练、工程化最佳实践**  
-- 🧠 关注方向：**具身智能、视觉-语言模型、多模态推理**  
+- 🧠 关注方向：**具身智能、视觉-语言模型、多模态推理、语音模型（ASR，TTS，KWS，SV等）**  
 - 💬 欢迎交流：**C++ 性能优化、CUDA 内核设计、OpenCV 与 ROS 集成、模型部署**  
 - 📄 简历：**[点此查看](RESUME_LINK)**  
 - 🌐 网站：**[PERSONAL_WEBSITE](PERSONAL_WEBSITE)**  ·  博客：**[BLOG_URL](BLOG_URL)**  

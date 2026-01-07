@@ -110,23 +110,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
----
 
-## 🚀 Featured Projects
-> 小提示：把 `repo=REPO_NAME` 改成你自己的仓库名（最多展示 6 个）。
-
-<a href="https://github.com/GITHUB_USERNAME/REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=REPO_1&show_owner=true" />
-</a>
-<a href="https://github.com/GITHUB_USERNAME/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=REPO_2&show_owner=true" />
-</a>
-<a href="https://github.com/GITHUB_USERNAME/REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=REPO_3&show_owner=true" />
-</a>
-<a href="https://github.com/GITHUB_USERNAME/REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GITHUB_USERNAME&repo=REPO_4&show_owner=true" />
-</a>
 
 ---
 

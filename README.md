@@ -126,13 +126,18 @@ You can click the Preview link to take a look at your changes.
   Repo: https://github.com/terrense/leetcode-study-guide-cpp
 ---
 
-## 📊 GitHub Stats
 
+## 📊 GitHub Stats
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=terrense&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=7200&v=1)
-![Streak](https://streak-stats.demolab.com?user=terrense&hide_border=true&mode=weekly&cache_seconds=7200&v=1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terrense&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200&v=1)
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=terrense&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=7200&v=1" />
+
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=terrense&hide_border=true&mode=weekly&cache_seconds=7200&v=1" />
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrense&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200&v=1" />
 
 </div>
 

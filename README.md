@@ -181,24 +181,74 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 💼 Experience & Education
-- **Company A** — *JOB_TITLE / Team* （YYYY.MM — 至今）  
-  - 负责：算法落地、性能优化、工程化部署  
-  - 亮点：XX% 提速；端到端延迟降至 XX ms；产线稳定运行 XX 天
 
-- **Company B** — *ROLE* （YYYY.MM — YYYY.MM）  
-  - 负责：…  
-  - 亮点：…
+### Experience
+- **Chinese Academy of Sciences — Research Intern / Research Assistant** (2021.03 — 2021.08)  
+  - Focus: integrated navigation + lightweight visual navigation on embedded platforms.  
+  - Responsibilities:
+    - Built a traditional integrated navigation pipeline using nonlinear adaptive Kalman filtering; implemented in **C** on embedded hardware; validated with real-vehicle data collection and **MATLAB** post-processing.
+    - Developed a lightweight visual navigation algorithm on **NVIDIA Jetson TX2** and integrated motion/pose outputs into a **Unity** simulation for spacecraft relative-motion verification.
+  - Highlights:
+    - Replaced classic FAST+optical-flow tracking with a **MobileNet-Lite** variant; achieved **< 15 ms / frame (~60 FPS)** on TX2 and improved matching accuracy by **~18%**.
 
-- **University** — *Degree, Major* （YYYY — YYYY）  
-  - 研究方向：…  
-  - 荣誉/奖项：…
+- **Samsung AI Center (Moscow) — Research Intern / Exploratory R&D Assistant** (2023.03 — 2023.12)  
+  - Focus: offline-to-online reinforcement learning for high-dimensional continuous control.  
+  - Responsibilities:
+    - Proposed a **Diffusion Model + PPO** framework to generate high-quality synthetic data and reduce offline data scarcity.
+    - Applied parameter-efficient tuning (**PET**: LoRA / Adapter) to reduce online training cost while keeping denoising capability.
+    - Designed **Value Guidance (VG)** during diffusion sampling using critic-based value estimation for data filtering.
+  - Highlights:
+    - Faster convergence than vanilla PPO in early training; improved final returns on multiple tasks.
+    - Reduced GPU compute needs by **~20–30%** with PET; improved stability on challenging tasks (e.g., HumanoidStandup).
 
+- **ICBC Moscow Branch — Technical Support Intern** (2024.02 — 2024.11)  
+  - Focus: enterprise knowledge base Q&A system using **RAG + vLLM**.  
+  - Responsibilities:
+    - Built a RAG pipeline with **LangChain**; ingested heterogeneous internal docs (reports, contracts, regulations, manuals).
+    - Vectorized text with **Sentence Transformers**; generated answers with **Qwen2.5-0.5B**; shipped a **Streamlit** web UI for user-uploaded knowledge bases.
+    - Optimized inference via **4-bit quantization** and **KV-cache compression (vLLM)**.
+  - Highlights:
+    - Covered **50k+** internal documents; achieved **~93%** QA accuracy with average response time **< 2s**.
+    - Reduced development cycle by **~30%** (one-click Conda deployment); lowered deployment cost by **~60%** after quantization.
+---
+### 🏫Education
+- **Bauman Moscow State Technical University — PhD, Deep Learning & Computer Vision** (2020.09 — 2025.02)  
+  - Top **5%** academic performance (CSC scholarship).
+- **Bauman Moscow State Technical University — M.S., Intelligent Systems & Integrated Navigation** (2018.09 — 2020.06)  
+  - Top **5%** academic performance (CSC scholarship).
+- **Beijing Institute of Technology — B.E., Armored Vehicle Engineering** (2014.09 — 2018.06)  
+  - Top **10%** academic performance.
 ---
 
-## 📝 Publications / Talks (可选)
-- **Title**, Venue/Conference, Year. 简介或链接。  
-- **Title**, Journal/Preprint, Year. 简介或链接。
+## 🧪 Projects Experience
 
+- **Lightweight Vision SLAM System Development (ROS-based)** (2021.09 — 2022.08)  
+  - What I did:
+    - Improved and integrated **SuperPoint / YOLO / VLADNet** into a ROS SLAM pipeline.
+    - Applied pruning, quantization, and lightweight model substitutions with **TensorRT** acceleration.
+  - Impact:
+    - On **Jetson TX2**, achieved **50–60 FPS** (SuperPoint) and **30–40 FPS** (YOLO) after optimization; reduced SuperPoint compute by **~30%** via dynamic sparse convolution.
+    - Improved loop-closure recall to **~89%** by adding Transformer cross-attention to VLADNet; improved trajectory estimation accuracy by **~3–6%** while maintaining real-time performance.
+
+- **Multimodal RAG + Human-Robot Collaboration System** (2022.02 — 2024.10)  
+  - What I did:
+    - Built a multimodal system integrating vision (detection/pose), speech (ASR), and text retrieval; orchestrated via **ROS2 state machines** for real-world HRC workflows.
+    - Used **CLIP** for joint vision-language understanding, **Whisper** for ASR; integrated **LLaVA + RAG** for enhanced instruction understanding and response generation.
+    - Optimized multimodal storage/indexing in **FAISS / Milvus / Chroma** to improve retrieval efficiency.
+  - Impact:
+    - Achieved **95% mAP** for gesture/tool detection at **>30 FPS**; reduced mapping error by **~37%** (TUM benchmark).
+    - Reached **91.5%** multimodal retrieval accuracy (**+23%** vs unimodal); reduced full tool-operation workflow time to **< 8s** (vs 15s+ baseline).
+
+---
+## 📝 Publications (Selected)
+
+- **Nonlinear filtering methods for the state estimation of dynamic systems and applications in navigation**, *AIP Conference Proceedings*, 2023. (Scopus)  
+- **Moving Person Detection Based on Modified YOLOv5**, *International Conference on Interactive Collaborative Robotics (ICR)*, 2023. (Scopus)  
+- **Attention Guided In-hand Mechanical Tools Recognition in Human-Robot Collaborative Process**, *ICR*, 2023. (Scopus)  
+- **Application of Adaptively Maximum Correntropy Based Robust Kalman Filter in Integrated Navigation System**, *Russian Automation Conference (RusAutoCon)*, 2024. (IEEE)  
+- **An Improved Light-weight Network for Real-Time Detection of Potential Risks for Autonomous Vehicles**, *RusAutoCon*, 2024. (IEEE)
+
+> Additional Russian (VAK) publications are available upon request.
 ---
 
 ## 🤝 Open Source

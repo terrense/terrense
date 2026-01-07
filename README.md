@@ -130,14 +130,57 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+## 🚀 Featured Projects
+
+- **LangChain RAG Learning** — A modular LangChain + RAG learning playground with a structured architecture (learning modules, RAG engine, web UI, evaluation tools).  
+  Repo: https://github.com/terrense/langchain-rag-learning
+
+- **CUDA Programming Mastery** — Hands-on CUDA fundamentals and performance-oriented practice (kernels, memory hierarchy, optimization mindset).  
+  Repo: https://github.com/terrense/cuda-programming-mastery
+
+- **LeetCode Study Guide (C++)** — Comprehensive C++ LeetCode study guide covering core data structures and algorithms, with curated patterns and solutions.  
+  Repo: https://github.com/terrense/leetcode-study-guide-cpp
+
+
 ## 📊 GitHub Stats
 <div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME&show_icons=true&include_all_commits=true)
-![Streak](https://streak-stats.demolab.com?user=GITHUB_USERNAME)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME&layout=compact&langs_count=10)
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=terrense&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=7200" />
+
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=terrense&hide_border=true&mode=weekly&cache_seconds=7200" />
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrense&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200" />
 
 </div>
+
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Focus | Link |
+|---|---|---|
+| **LangChain RAG Learning** | LangChain + RAG architecture, learning modules, evaluation | https://github.com/terrense/langchain-rag-learning |
+| **CUDA Programming Mastery** | CUDA fundamentals → optimization practice | https://github.com/terrense/cuda-programming-mastery |
+| **LeetCode Study Guide (C++)** | DSA patterns, curated solutions, interview prep | https://github.com/terrense/leetcode-study-guide-cpp |
+
+## 📊 GitHub Stats
+<div align="center">
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=terrense&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&cache_seconds=7200" />
+
+  <img height="165"
+       src="https://streak-stats.demolab.com?user=terrense&hide_border=true&mode=weekly&cache_seconds=7200" />
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrense&layout=compact&langs_count=10&hide_border=true&cache_seconds=7200" />
+
+</div>
+
 
 ---
 

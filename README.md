@@ -143,6 +143,17 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=terrense&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;cache_seconds=7200&amp;v=1" />
+  <img height="165"
+       src="https://streak-stats.demolab.com/?user=terrense&amp;hide_border=true&amp;mode=weekly&amp;cache_seconds=7200&amp;v=1" />
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrense&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;cache_seconds=7200&amp;v=1" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 

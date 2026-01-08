@@ -155,17 +155,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=terrense&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;hide_border=true&amp;cache_seconds=7200&amp;v=1" />
-  <img height="165"
-       src="https://streak-stats.demolab.com/?user=terrense&amp;hide_border=true&amp;mode=weekly&amp;cache_seconds=7200&amp;v=1" />
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrense&amp;layout=compact&amp;langs_count=10&amp;hide_border=true&amp;cache_seconds=7200&amp;v=1" />
-</p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -223,6 +212,12 @@ You can click the Preview link to take a look at your changes.
     - Covered **50k+** internal documents; achieved **~93%** QA accuracy with average response time **< 2s**.
     - Reduced development cycle by **~30%** (one-click Conda deployment); lowered deployment cost by **~60%** after quantization.
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&color=36BCF7&lines=3+years+in+Beijing+%C2%B7+8+years+in+Moscow." />
+</p>
+
+
+
 ### 🏫Education
 - **Bauman Moscow State Technical University — PhD, Deep Learning & Computer Vision** (2020.09 — 2025.02)  
   - Top **5%** academic performance (CSC scholarship).
@@ -231,6 +226,12 @@ You can click the Preview link to take a look at your changes.
 - **Beijing Institute of Technology — B.E., Armored Vehicle Engineering** (2014.09 — 2018.06)  
   - Top **10%** academic performance.
 ---
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&lines=Feel+free+to+check+out+my+work%3A+projects%2C+papers%2C+and+systems." />
+</p>
 
 ## 🧪 Projects Experience
 
@@ -273,6 +274,13 @@ You can click the Preview link to take a look at your changes.
 **中文**（母语/专业） · **English**（C1） · **Русский**（B2） · **…**
 
 ---
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&color=FFFFFF&background=0D1117&lines=Let%27s+grow+together+and+keep+leveling+up." />
+</p>
+
 
 ## 📫 Contact
 

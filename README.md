@@ -45,12 +45,17 @@ You can click the Preview link to take a look at your changes.
 <a href="#-contact">Contact</a>
 
 </div>
----
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&lines=Technology+that+improves+everyday+life.;Engineering+intelligence+into+real-world+products.;Building+the+future%2C+one+system+at+a+time." />
+</p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&lines=Building+robust+Speech+AI+services+in+containers.;ASR%2FTTS+pipelines+for+real-world+products.;Obsessed+with+latency%2C+accuracy%2C+and+engineering+quality." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&lines=Making+life+better+through+technology.;Turning+ideas+into+impactful+AI+systems.;Moving+toward+the+future%2C+together." />
 </p>
+
+
 
 
 ---

@@ -46,6 +46,21 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 ---
+<h1 align="center">Hi, I'm Xin 👋</h1>
+<p align="center">
+  <b>Speech AI Engineer | ASR · TTS · Streaming Pipeline · MLOps</b>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Focus-ASR%2FTTS-blue" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Stack-Docker%20%7C%20FastAPI%20%7C%20PyTorch-informational" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Goal-IELTS%208.0-success" /></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&lines=Building+robust+Speech+AI+services+in+containers.;ASR%2FTTS+pipelines+for+real-world+products.;Obsessed+with+latency%2C+accuracy%2C+and+engineering+quality." />
+</p>
 
 
 ---

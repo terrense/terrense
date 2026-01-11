@@ -139,18 +139,6 @@ You can click the Preview link to take a look at your changes.
 ---
 
 
-## 📊 GitHub Stats
-<div align="center">
-
-
-
-  <img height="165"
-       src="https://streak-stats.demolab.com?user=terrense&hide_border=true&mode=weekly&cache_seconds=7200&v=1" />
-
-
-
-</div>
-
 
 ---
 
@@ -167,15 +155,6 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-## 🏆 Trophies & Activity
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&row=1&margin-w=15)
-  
-<!-- 可选：提交活动图，需要部署代理服务或使用第三方实例 -->
-<!-- ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME) -->
-
-</div>
 
 ---
 

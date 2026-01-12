@@ -190,9 +190,13 @@ You can click the Preview link to take a look at your changes.
     - Reduced development cycle by **~30%** (one-click Conda deployment); lowered deployment cost by **~60%** after quantization.
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&color=36BCF7&lines=3+years+in+Beijing+%C2%B7+8+years+in+Moscow." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=650&color=36BCF7&lines=4+years+in+Beijing+%C2%B7+8+years+in+Moscow." />
 </p>
 
+## 🌍 Journey
+- **Beijing (4 years):** building engineering intuition in fast-paced environments
+- **Moscow (8 years):** deepening research habits and long-horizon thinking
+- **Now:** turning research into robust, shippable AI systems
 
 
 ### 🏫Education

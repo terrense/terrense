@@ -262,7 +262,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌐 Languages
-**中文**（母语/专业） · **English**（C1） · **Русский**（B2） · **…**
+**中文**（母语/专业） · **English**（C1） · **Русский**（B2） · **Deustch** (A2)
 
 ---
 

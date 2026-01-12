@@ -311,3 +311,9 @@ You can click the Preview link to take a look at your changes.
 *Made with ❤️ by Xin Shen from China。*
 
 </div>
+
+## 🌐 Languages
+- :cn: **中文** (Native / Professional)
+- :gb: **English** (C1)
+- :ru: **Русский** (C1)
+- :de: **Deutsch** (A2)

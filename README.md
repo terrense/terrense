@@ -251,6 +251,16 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+## 🧩 Capability Matrix
+- **Speech AI:** ASR / VAD / Punc / Streaming pipelines  
+- **TTS:** acoustic + vocoder deployment, serviceization  
+- **Systems:** Docker Compose, API design, observability
+- **Database:** MySQL, PostgreSQL  
+- **Acceleration:** CUDA basics, profiling mindset, throughput & latency tuning , deployment on Embedded Systems
+- **SLAM:** NNERF, 3DGS, classic visual SLAM system(VINS , ORB-slam)
+- **Robotics:** Navigation, Control ,planning, Reinforcement learning, Nvidia TX2 platform
+---
+
 ## 🌐 Languages
 **中文**（母语/专业） · **English**（C1） · **Русский**（B2） · **…**
 

@@ -262,9 +262,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🌐 Languages
-**中文**（母语/专业） · **English**（C1） · **Русский**（C1） · **Deustch** (A2)
-🌍 Languages: 🇨🇳 China | 🇬🇧 UK | 🇷🇺 Russia | 🇩🇪 Germany
-
+- :cn: **中文** (Native / Professional)
+- :gb: **English** (C1)
+- :ru: **Русский** (C1)
+- :de: **Deutsch** (A2)
 
 ---
 
